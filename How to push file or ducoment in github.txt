@@ -1,0 +1,21 @@
+<=============New git repository===========>
+<===========================================>
+
+
+
+1. git init
+2. git add . 			 	<===add . this sign is all directory add in github ===>
+3. git status  				<==it is used for check your without commit on github===>
+4. git commit -m "msg" 			<===msg = any masg write you=====>
+5. git remote add origin (Https)	<=====https://github.com/username/repository filename.git======>
+6. git push -u origin master		<=====after command then push github please check your github====>
+
+<===============================================End=======================================================>
+
+<========When edit or push and add new file then how you push github useing by cmd =================>
+
+
+1. git add *  				<===add * this sign is only new file and edit file add in github===>
+2. git commit -m "msg"
+3. git push origin master
+
